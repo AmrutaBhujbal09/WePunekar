@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "WePunekar-webapp"
+    }
+  },
+  "defaultProject": "WePunekar-webapp",
+  "cli": {
+    "analytics": false
+  }
 }
